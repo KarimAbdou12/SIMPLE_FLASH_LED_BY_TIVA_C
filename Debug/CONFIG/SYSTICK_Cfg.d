@@ -1,0 +1,15 @@
+# FIXED
+
+CONFIG/SYSTICK_Cfg.obj: ../CONFIG/SYSTICK_Cfg.c
+CONFIG/SYSTICK_Cfg.obj: E:/ARM\ Diploma/TIVA_C/TIVA_C/StdTypes.h
+CONFIG/SYSTICK_Cfg.obj: E:/ARM\ Diploma/TIVA_C/TIVA_C/MCAL/SYSTICK_Int.h
+CONFIG/SYSTICK_Cfg.obj: ../CONFIG/SYSTICK_Cfg.h
+
+../CONFIG/SYSTICK_Cfg.c:
+
+E:/ARM\ Diploma/TIVA_C/TIVA_C/StdTypes.h:
+
+E:/ARM\ Diploma/TIVA_C/TIVA_C/MCAL/SYSTICK_Int.h:
+
+../CONFIG/SYSTICK_Cfg.h:
+

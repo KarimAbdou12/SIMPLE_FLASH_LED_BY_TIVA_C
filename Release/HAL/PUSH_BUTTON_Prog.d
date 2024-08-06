@@ -1,0 +1,21 @@
+# FIXED
+
+HAL/PUSH_BUTTON_Prog.obj: ../HAL/PUSH_BUTTON_Prog.c
+HAL/PUSH_BUTTON_Prog.obj: E:/ARM\ Diploma/TIVA_C/TIVA_C/StdTypes.h
+HAL/PUSH_BUTTON_Prog.obj: E:/ARM\ Diploma/TIVA_C/TIVA_C/MCAL/DIO_Int.h
+HAL/PUSH_BUTTON_Prog.obj: ../HAL/PUSH_BUTTON_Int.h
+HAL/PUSH_BUTTON_Prog.obj: ../HAL/PUSH_BUTTON_Priv.h
+HAL/PUSH_BUTTON_Prog.obj: E:/ARM\ Diploma/TIVA_C/TIVA_C/CONFIG/PUSH_BUTTON_Cfg.h
+
+../HAL/PUSH_BUTTON_Prog.c:
+
+E:/ARM\ Diploma/TIVA_C/TIVA_C/StdTypes.h:
+
+E:/ARM\ Diploma/TIVA_C/TIVA_C/MCAL/DIO_Int.h:
+
+../HAL/PUSH_BUTTON_Int.h:
+
+../HAL/PUSH_BUTTON_Priv.h:
+
+E:/ARM\ Diploma/TIVA_C/TIVA_C/CONFIG/PUSH_BUTTON_Cfg.h:
+
